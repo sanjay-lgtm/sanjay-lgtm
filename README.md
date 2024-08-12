@@ -1,16 +1,40 @@
 ## Hi there 👋
 
 
-**sanjay-lgtm/sanjay-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanjay-lgtm/sanjay-lgtm** 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 Reactjs , Nextjs , shadcn/ui , tailwind css
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Documentation
 
+[Reactjs](https://react.dev/)
+[Nestjs](https://nextjs.org/)
+[Shadcn/ui](https://ui.shadcn.com/)
+[Tailwind](https://tailwindcss.com/)
+
+
+## Deployment
+
+mernEats
+
+```bash
+  https://zomato-client-4i5f.onrender.com
+```
+
+Posts
+
+```bash
+    https://posts-0qau.onrender.com/
+```
+
+Gemini Interface 
+
+```bash
+    https://gemini-react-clone.vercel.app/
+```
+
+
+Juspay Mockup
+
+```bash
+    https://juspay-sepia.vercel.app/
+```
