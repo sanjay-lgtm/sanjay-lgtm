@@ -12,7 +12,7 @@
 [Tailwind](https://tailwindcss.com/)
 
 
-## Deployment
+## Projects
 
 mernEats
 
