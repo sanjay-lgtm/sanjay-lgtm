@@ -7,7 +7,7 @@
 ## Documentation
 
 [Reactjs](https://react.dev/)
-[Nestjs](https://nextjs.org/)
+[Nextjs](https://nextjs.org/)
 [Shadcn/ui](https://ui.shadcn.com/)
 [Tailwind](https://tailwindcss.com/)
 
